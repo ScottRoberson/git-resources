@@ -21,3 +21,6 @@ Here is a git cheat sheet distributed by Git-Hub https://github.github.com/train
 Top 5 Free Courses to Learn Git and Github — Best of Lot https://hackernoon.com/top-5-free-courses-to-learn-git-and-github-best-of-lot-2f394c6533b0
 
 Learn Git one command at a time http://gitready.com/
+
+How to connect git to github. First you will need to create an ssh key if one is not already created https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent. Don't worry, the article will show you how to check to see if there is an existing key available for use. After creation, you will need to add that key to your github account so git and github can talk to one another(https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account).
+
